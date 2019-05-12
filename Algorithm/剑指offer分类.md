@@ -24,9 +24,9 @@
 		*	[栈的压入、弹出序列](#栈的压入、弹出序列)
 		*	[滑动窗口的最大值](#滑动窗口的最大值)
 	* [树](#树)
-		*	[重建二叉树（前序和中序）](#重建二叉树（前序和中序）)
+		*	[重建二叉树](#重建二叉树)
 		*	[树的子结构](#树的子结构)
-		*	[从上往下打印二叉树（层序遍历）](#从上往下打印二叉树（层序遍历）)
+		*	[从上往下打印二叉树](#从上往下打印二叉树)
 		*	[二叉搜索树的后序遍历序列](#二叉搜索树的后序遍历序列)
 		*	[二叉树中和为某一值的路径](#二叉树中和为某一值的路径)
 <!-- GFM-TOC -->
@@ -716,7 +716,7 @@ public class Solution {
 }
 ```
 ## 树
-### 重建二叉树（前序和中序）
+### 重建二叉树
 [重建二叉树](https://www.nowcoder.com/practice/8a19cbe657394eeaac2f6ea9b0f6fcf6?tpId=13&tqId=11157&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
 ```html
 题目描述
@@ -769,7 +769,7 @@ public class Solution {
     }
 }
 ```
-### 从上往下打印二叉树（层序遍历）
+### 从上往下打印二叉树
 [从上往下打印二叉树](https://www.nowcoder.com/practice/7fe2212963db4790b57431d9ed259701?tpId=13&tqId=11175&tPage=2&rp=2&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
 ```html
 题目描述
